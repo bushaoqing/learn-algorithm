@@ -21,8 +21,8 @@ function F (n) {
 
 // console.time('time1');
 // console.log(F(10));
-// console.timeEnd('time1');
+// console.timeEnd('time1'); // time1: 6.419ms
 
 // console.time('time2');
 // console.log(F(8));
-// console.timeEnd('time2');
+// console.timeEnd('time2'); // time2: 0.446ms
